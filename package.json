@@ -1,0 +1,23 @@
+{
+  "name": "@lambrossy/match",
+  "version": "0.0.1",
+  "description": "Javascript pattern matching, sort of",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lambrossy/match.git"
+  },
+  "author": "lambrossy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lambrossy/match/issues"
+  },
+  "homepage": "https://github.com/lambrossy/match#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
